@@ -1,1 +1,1 @@
-# Canteen management system project in C++ Project's
+# C++ Project's : Canteen management system project in C++. 
